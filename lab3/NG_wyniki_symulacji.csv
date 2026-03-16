@@ -1,0 +1,22 @@
+PARAMETRY SYMULACJI
+Liczba kanałów (S):;10
+Natężenie (Lambda):;1.0
+Śr. rozmowa (N):;20
+Odchylenie (Sigma):;5
+Min dł. rozmowy:;10
+Maks dł. rozmowy:;30
+Długość kolejki:;10
+Czas symulacji:;10
+
+WYNIKI (KOLUMNY: Rho, Q, W)
+Sekunda;Rho;Q;W
+1;0.5;0;0.0
+2;0.6;0;0.0
+3;0.7;0;0.0
+4;0.9;0;0.0
+5;0.9;0;0.0
+6;0.9;0;0.0
+7;0.9;0;0.0
+8;0.9;0;0.0
+9;1.0;1;0.05
+10;1.0;3;0.15000000000000002
